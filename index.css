@@ -50,6 +50,17 @@
 
 }
 
+#landing{
+    padding-top: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 300px;
+    background-color: lightgreen;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 2px solid tomato;
+}
+
 #carousel{
     z-index: 0;
 }
@@ -95,7 +106,6 @@
         padding-right: 40px;
     }
 }
-
 
 #footer{
     margin-bottom: 0;
