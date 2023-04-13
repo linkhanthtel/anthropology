@@ -55,10 +55,11 @@
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 300px;
-    background-color: lightgreen;
+    background-image: url("Images/anthropology6.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    border-bottom: 2px solid tomato;
+    color: ivory;
+    border-bottom: 3px solid wheat;
 }
 
 #carousel{
