@@ -50,6 +50,88 @@
 
 }
 
+#religious{
+    padding-top: 200px;
+    padding-right: 5%;
+    padding-left: 50%;
+    padding-bottom: 200px;
+    background-image: url(Images/anthropology5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cultural{
+    padding-top: 200px;
+    padding-right: 50%;
+    padding-left: 5%;
+    padding-bottom: 300px;
+    background-image: url(Images/anthropology8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom left;
+}
+
+#carbondating{
+    padding-top: 200px;
+    padding-right: 5%;
+    padding-left: 50%;
+    padding-bottom: 300px;
+    background-image: url(Images/anthropology7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+    background-position: bottom left;
+}
+
+#literaturereview{
+    padding-top: 200px;
+    padding-right: 50%;
+    padding-left: 5%;
+    padding-bottom: 300px;
+    background-image: url(Images/anthropology9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+    background-position: bottom left;
+}
+
+@media (max-width:600px) {
+    #religious {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #cultural {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #carbondating {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #literaturereview {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+}
+
+#text{
+    color: white;
+}
+
+#footer{
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#footer p{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
 
 
 
