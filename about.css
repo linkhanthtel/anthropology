@@ -55,7 +55,7 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    text-align: justify;
+    text-align: start;
     border-bottom: 0.5px solid grey;
     background-color: wheat;
 }
@@ -65,7 +65,7 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    text-align: justify;
+    text-align: start;
     border-bottom: 0.5px solid grey;
     background-color: antiquewhite;
 }
@@ -75,8 +75,20 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    text-align: justify;
+    text-align: start;
     border-bottom: 0.5px solid grey;
     background-color: wheat;
+}
+
+#footer{
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#footer p{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
 }
 
