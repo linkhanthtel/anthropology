@@ -51,10 +51,19 @@
 }
 
 #cover{
-    padding: 300px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-left: 50%;
+    padding-right: 10%;
     background-image: url(Images/anthropology1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+@media (max-width:600px) {
+    #cover {
+        padding: 100px;
+    }
 }
 
 #joinwithus{
