@@ -81,7 +81,7 @@
     #blogs{
         display: grid;
         grid-template-columns: 1fr;
-        padding-top: 50px;
+        padding-top: 120px;
     }
 }
 
