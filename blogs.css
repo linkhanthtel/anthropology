@@ -25,9 +25,25 @@
     background-color: white;
 }
 
+#menubar {
+    display: none;
+}
+
+#navbar a:hover{
+    background-color: white;
+}
+
 @media (max-width: 600px) {
     #navigationbar{
         padding: 30px;
+        position: fixed;
+        z-index: 2;
+    }
+
+    #menubar {
+        display: inline;
+        float: right;
+        color: wheat;
     }
 
     #navigationbar{
